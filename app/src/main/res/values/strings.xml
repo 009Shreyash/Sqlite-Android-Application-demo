@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticleApp</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_desc">Enter Desc</string>
+    <string name="bnt_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_add_record">Add Record</string>
+    <string name="should_not_blank">Should not be Empty</string>
+</resources>
